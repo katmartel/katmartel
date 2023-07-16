@@ -3,5 +3,3 @@ Hey! I'm Katrina - a passionate technologist, educator, and problem solver with 
 💻 As a software developer, I thrive on building user-centric solutions and crafting clean, efficient code. My experience spans full stack web development, UX design, and collaborating on cross-functional teams.
 
 🍎 As an educator, I'm committed to transforming classrooms into dynamic, hands-on learning environments. I embrace innovative approaches, often rooting lessons in SEL practices that are place-based and encourage critical thinking. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katmartel&hide_progress=true)](https://github.com/katmartel/github-readme-stats)
